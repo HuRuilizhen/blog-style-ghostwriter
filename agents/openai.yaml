@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blog Style Ghostwriter"
+  short_description: "Write structured technical blog posts"
+  default_prompt: "Use $blog-style-ghostwriter to turn these scattered notes into a publish-ready technical blog post."
