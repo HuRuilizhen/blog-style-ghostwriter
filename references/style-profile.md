@@ -7,6 +7,7 @@ Model the author's posts as structured technical explainers with a lecture-note 
 - Start with a concise setup paragraph that defines the topic and previews coverage.
 - Use `<!--more-->` immediately after the opening block.
 - Add `## Table of Contents` for most substantial posts.
+- When updating an existing post, keep the Table of Contents in sync with any heading additions, removals, or renames.
 - Break large topics into major `#` sections separated by `---`.
 - Use `##` for concrete subtopics such as definitions, mechanisms, comparisons, or steps.
 - End with `# Conclusion` or `Related Posts / Websites 👇` when appropriate.

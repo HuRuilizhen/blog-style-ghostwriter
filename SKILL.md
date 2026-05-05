@@ -26,6 +26,7 @@ Read [references/style-profile.md](references/style-profile.md) before drafting.
    - Include frontmatter with `layout`, `title`, `description`, `date`, `feature_image`, and `tags` when the user asks for a ready-to-publish post.
    - Add `<!--more-->` after the opening section.
    - Add `## Table of Contents` for medium or long posts.
+   - When updating an existing post, if headings are added, removed, or renamed, verify and update the Table of Contents accordingly.
    - Use `---` between major sections when it matches the house style.
 5. Write in the author's blog voice.
    - Prefer calm, explanatory, lecture-like prose.
@@ -80,6 +81,7 @@ Read [references/style-profile.md](references/style-profile.md) before drafting.
 
 - Verify that the opening paragraph states scope clearly.
 - Verify that headings are specific, not generic filler.
+- Verify that the Table of Contents still matches the current heading structure when the post includes one.
 - Verify that each major section either defines, compares, explains, or demonstrates something concrete.
 - Verify that code, formulas, and tables are introduced by text instead of appearing abruptly.
 - Verify that unsupported hard facts are not fabricated.
